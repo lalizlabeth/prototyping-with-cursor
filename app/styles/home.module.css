@@ -34,7 +34,6 @@
 
 .card:hover {
   background: rgba(0, 0, 0, 0.04);
-  transform: translateY(-2px);
 }
 
 .card h3 {
@@ -47,4 +46,4 @@
   font-size: 0.9rem;
   opacity: 0.8;
   line-height: 1.6;
-} 
+}
